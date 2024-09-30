@@ -12,10 +12,15 @@ The score is kept dynamically, and the game updates the user interface to reflec
 
 🚀 Features
 Dynamic Scoreboard: Keep track of the user and computer's scores.
+
 Interactive UI: Beautifully designed buttons that make selecting rock, paper, or scissors intuitive.
+
 Randomized Computer Choice: The computer’s choice is generated randomly each round.
+
 Win/Loss Logic: Displays messages for wins, losses, and draws.
+
 Responsive Design: Optimized for all screen sizes.
+
 🛠️ How It Works
 The user clicks on one of the three choices: Rock, Paper, or Scissors.
 The computer randomly selects its own choice.
@@ -45,4 +50,5 @@ CSS: Styling and layout
 JavaScript: Game logic and interactivity
 
 Feel free to add this game to your own GitHub and challenge your friends to a Rock Paper Scissors showdown! 🎉
+
 Enjoy playing! 😊
