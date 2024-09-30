@@ -41,7 +41,8 @@ The game will update the scoreboard and display a message if you win or lose.
 
 📸 Screenshots
 Here's what the game looks like:
-![image](https://github.com/user-attachments/assets/ff19c036-5aa5-4256-b090-79a543790c01)
+![image](https://github.com/user-attachments/assets/47426e8b-8e87-4826-b5cd-f99743fe1163)
+
 
 
 👨‍💻 Tech Stack
