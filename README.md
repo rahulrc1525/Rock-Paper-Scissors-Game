@@ -5,6 +5,10 @@ Welcome to the Rock Paper Scissors Game — a fun and interactive game built usi
 🎯 About the Game
 This project is a simple yet entertaining implementation of the classic game where you challenge the computer in a battle of wits and reflexes. Choose Rock, Paper, or Scissors, and see if you can outsmart the computer!
 
+🔗 Live Demo
+[ Rock Paper Scissors Game live](https://rahulrc1525.github.io/Rock-Paper-Scissors-Game/)
+
+
 Rock crushes Scissors
 Scissors cut Paper
 Paper covers Rock
